@@ -16,10 +16,15 @@
 ![snakegame2](https://user-images.githubusercontent.com/113944962/231906155-e648f841-17ed-427f-9cfa-af156909f09f.png)
 
 
-### Future improvements: 
+### Future improvements to be added (once I learn how to do it 😆): 
 - adding score and high score;
 - offering the possibility to select a speed level to increase difficulty;
 - adding a Start game and a Game Over screen;
 - customizing the snake skin, expecially the head segment;
+- design improvements;
+- adding audio;
+- providing different types of food;
+- chess-like board pattern;
+
 
 *Tutorial by Web Dev Simplified*
